@@ -43,49 +43,9 @@ Edit
   ├── routes/
   ├── models/
   └── server.js
-🛠️ Getting Started
-Clone the repository
-bash
-Copy
-Edit
-git clone https://github.com/khushboo8252/Khan-Academy-.git
-cd khan-academy-clone
-Setup Backend
-bash
-Copy
-Edit
-cd server
-npm install
-Create a .env file:
 
-ini
-Copy
-Edit
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_jwt_secret
-PORT=5000
-Start the backend:
 
-bash
-Copy
-Edit
-npm start
-Setup Frontend
-bash
-Copy
-Edit
-cd ../client
-npm install
-npm run dev
-🌐 Deployment
-Frontend: Vercel/Netlify
 
-Backend: Render 
-
-🧑‍💻 Author
-Khushboo Kumari
-
-Built with 💙 to inspire education accessibility
 
 📍 LinkedIn :(https://www.linkedin.com/in/khushboo-kumari-23814225b/)
 📧 [khushbooranjan8252@gmail.com]
